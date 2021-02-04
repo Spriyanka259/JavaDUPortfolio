@@ -1,0 +1,151 @@
+{"sirigaddepriyanka": [
+    {"Owner": [
+        {
+            "numYears": 30,
+            "firstName": "Rohith",
+            "lastName": "Lincoln **SO**",
+            "address": {
+                "zipcode": "80208-0001",
+                "city": "Denver",
+                "street1": "2199 S University Blvd",
+                "state": "CO",
+                "street2": ""
+            },
+            "phoneNumber": "202-222-4444",
+            "seniorOwner": true,
+            "ownerID": "RS"
+        },
+        {
+            "numYears": 30,
+            "firstName": "John",
+            "lastName": "Kennedy",
+            "address": {
+                "zipcode": "80208-0001",
+                "city": "Denver",
+                "street1": "2199 S University Blvd",
+                "state": "CO",
+                "street2": ""
+            },
+            "phoneNumber": "202-222-4444",
+            "seniorOwner": true,
+            "ownerID": "JK"
+        },
+        {
+            "numYears": 30,
+            "firstName": "Abraham",
+            "lastName": "Lincoln",
+            "address": {
+                "zipcode": "80208-0001",
+                "city": "Denver",
+                "street1": "2199 S University Blvd",
+                "state": "CO",
+                "street2": ""
+            },
+            "phoneNumber": "202-222-4444",
+            "seniorOwner": true,
+            "ownerID": "AL"
+        }
+    ]},
+    {"Vehicle": [
+        {
+            "isInsured": false,
+            "subModel": "",
+            "vehicleClassification": {"status": "MODERN"},
+            "model": "ES350",
+            "vehicleID": "V6",
+            "ownerID": "JK",
+            "modelYear": 2007,
+            "manufacturer": "LEXUS"
+        },
+        {
+            "isInsured": false,
+            "subModel": "",
+            "vehicleClassification": {"status": "MODERN"},
+            "model": "ES350",
+            "vehicleID": "V10",
+            "ownerID": "JK",
+            "modelYear": 2007,
+            "manufacturer": "LEXUS"
+        },
+        {
+            "isInsured": false,
+            "subModel": "",
+            "vehicleClassification": {"status": "CLASSIC"},
+            "model": "CONTINENTAL",
+            "vehicleID": "V3",
+            "ownerID": "AL",
+            "modelYear": 1963,
+            "manufacturer": "LINCOLN"
+        },
+        {
+            "isInsured": false,
+            "subModel": "LSC",
+            "vehicleClassification": {"status": "MODERN"},
+            "model": "MARK VIII",
+            "vehicleID": "V4",
+            "ownerID": "AL",
+            "modelYear": 1998,
+            "manufacturer": "LINCOLN"
+        },
+        {
+            "isInsured": false,
+            "subModel": "",
+            "vehicleClassification": {"status": "ANTIQUE"},
+            "model": "MODEL T",
+            "vehicleID": "V5",
+            "ownerID": "JK",
+            "modelYear": 1910,
+            "manufacturer": "FORD"
+        }
+    ]},
+    {"CarShow": [
+        {
+            "carShowDate": "Thu Dec 03 00:00:00 EST 2020",
+            "carShowID": "CS10",
+            "carShowTitle": "Colorado Car Show !!!!",
+            "isSanctioned": false
+        },
+        {
+            "carShowDate": "Thu Dec 03 00:00:00 EST 2020",
+            "carShowID": "CS1",
+            "carShowTitle": "Mile High Car Show !!!!",
+            "isSanctioned": false
+        },
+        {
+            "carShowDate": "Thu Dec 03 00:00:00 EST 2020",
+            "carShowID": "CS3",
+            "carShowTitle": "University of Denver Car Show !!!!",
+            "isSanctioned": false
+        },
+        {
+            "carShowDate": "Thu Dec 03 00:00:00 EST 2020",
+            "carShowID": "CS2",
+            "carShowTitle": "Golden Car Show !!!!",
+            "isSanctioned": false
+        },
+        {
+            "carShowDate": "Thu Dec 03 00:00:00 EST 2020",
+            "carShowID": "CS4",
+            "carShowTitle": "Colorado Car Show !!!!",
+            "isSanctioned": false
+        }
+    ]},
+    {"CarShowOwner": [
+        {
+            "carShowID": "CS3",
+            "ownerID": "JK"
+        },
+        {
+            "carShowID": "CS4",
+            "ownerID": "JK"
+        },
+        {
+            "carShowID": "CS1",
+            "ownerID": "AL"
+        },
+        {
+            "carShowID": "CS2",
+            "ownerID": "AL"
+        }
+    ]}
+]}

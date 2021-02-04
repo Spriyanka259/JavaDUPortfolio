@@ -1,0 +1,8 @@
+#IOwnerService=edu.du.sirigaddepriyanka.model.services.ownerservice.OwnerArrayListImpl
+IOwnerService=edu.du.sirigaddepriyanka.model.services.ownerservice.OwnerHashMapImpl
+#IVehicleService=edu.du.sirigaddepriyanka.model.services.vehicleservice.VehicleArrayListImpl
+IVehicleService=edu.du.sirigaddepriyanka.model.services.vehicleservice.VehicleHashMapImpl
+#ICarShowService=edu.du.sirigaddepriyanka.model.services.carshowservice.CarShowArrayListImpl
+ICarShowService=edu.du.sirigaddepriyanka.model.services.carshowservice.CarShowHashMapImpl
+ICarShowOwnerService=edu.du.sirigaddepriyanka.model.services.carshowownerservice.CarShowOwnerArrayListImpl
+#ICarShowOwnerService=edu.du.sirigaddepriyanka.model.services.carshowownerservice.CarShowOwnerHashMapImpl
